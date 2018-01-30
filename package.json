@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/mnuman/later#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2"
   }
 }
